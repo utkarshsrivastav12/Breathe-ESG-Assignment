@@ -1,0 +1,169 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* body {
+    display: flex;
+    height: 100vh;
+} */
+
+.contain {
+    display: flex;
+    position: relative;
+
+}
+
+.sidebar {
+    width: 200px;
+    background-color: #1b1b1b;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.sidebar .logo {
+    font-size: 1.5em;
+    margin: 20px 0;
+    text-align: center;
+}
+
+.sidebar nav ul {
+    list-style-type: none;
+    width: 100%;
+}
+
+.sidebar nav ul li {
+    padding: 15px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.sidebar nav ul li.active,
+.sidebar nav ul li:hover {
+    background-color: #333;
+}
+
+.sidebar nav ul li.logout {
+    margin-top: auto;
+    background-color: #e53935;
+    color: #fff;
+}
+
+.main-content {
+    flex: 1;
+    background-color: #fff;
+    padding: 390px;
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    display: flex;
+    position: absolute;
+    top: 20px;
+    left: 400px;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+    gap: 100px;
+}
+
+.view-name,
+.fiscal-year {
+    display: flex;
+    align-items: center;
+}
+
+.view-name label,
+.fiscal-year label {
+    margin-right: 10px;
+}
+
+.view-name select,
+.fiscal-year select {
+    padding: 5px;
+}
+
+.submit-button {
+    background-color: #4caf50;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.content {
+    position: absolute;
+    top: 80px;
+    left: 300px;
+}
+
+.tabs {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.tab {
+    padding: 10px;
+    cursor: pointer;
+    border-bottom: 2px solid transparent;
+}
+
+.tab.active {
+    border-color: #4caf50;
+}
+
+.data-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.data-table th,
+.data-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.data-table th {
+    background-color: #f2f2f2;
+}
+
+.risk.low {
+    color: green;
+}
+
+.risk.medium {
+    color: orange;
+}
+
+.risk.high {
+    color: red;
+}
+
+.status.pending {
+    color: orange;
+}
+
+.status.complete {
+    color: green;
+}
+
+.action {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0 5px;
+}
+
+.action.share::before {
+    content: '🔗';
+}
+
+.action.delete::before {
+    content: '🗑️';
+}
