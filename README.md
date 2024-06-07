@@ -94,3 +94,29 @@ https://drive.google.com/file/d/15ywAYsEX6-wposn-i3Q_uyp6kjSpP8Z4/view?usp=shari
 
 https://github.com/utkarshsrivastav12/Breathe-ESG-Assignment
 
+
+Installation
+To run this project locally, follow these steps:
+
+Clone the repository:
+
+bash
+Copy code
+git clone https://github.com/your-username/Breathe-ESG-Frontend.git
+Navigate to the project directory:
+
+bash
+Copy code
+cd Breathe-ESG-Frontend
+Install the dependencies:
+
+bash
+Copy code
+npm install
+Start the development server:
+
+bash
+Copy code
+npm start
+
+
