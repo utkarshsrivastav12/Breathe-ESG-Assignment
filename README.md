@@ -75,11 +75,11 @@ After logging in, you will be redirected to the home page.
 
 ## Snapshots
 
-![App Snapshots](https://drive.google.com/file/d/1qzX9mrDinkeKZ2AgSFobmmSXHBYdHVwg/view?usp=sharing)
+https://drive.google.com/file/d/1qzX9mrDinkeKZ2AgSFobmmSXHBYdHVwg/view?usp=sharing
 
 ##Screenshots1
 
-![App Screenshots](https://drive.google.com/file/d/1SqhBkdXr3hsXnUND8Nqx_lulTmwTKtjr/view?usp=sharing)
+https://drive.google.com/file/d/1SqhBkdXr3hsXnUND8Nqx_lulTmwTKtjr/view?usp=sharing
 
 ##Screenshots2
 
@@ -87,8 +87,8 @@ https://drive.google.com/file/d/1BBJJEeMg-tUX7ZAq0x-wC4kruZr1me09/view?usp=shari
 
 ##Screenshots3
 
-![App Screenshots](
-https://drive.google.com/file/d/15ywAYsEX6-wposn-i3Q_uyp6kjSpP8Z4/view?usp=sharing)
+
+https://drive.google.com/file/d/15ywAYsEX6-wposn-i3Q_uyp6kjSpP8Z4/view?usp=sharing
 
 ## Demo
 
