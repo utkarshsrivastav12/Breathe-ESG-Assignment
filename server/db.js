@@ -3,7 +3,7 @@ const mongoose = require('mongoose');
 // Define the MongoDB connection URL
 // const mongoURL = process.env.MONGODB_URL_LOCAL // Replace 'mydatabase' with your database name
 const mongoURL = "mongodb://127.0.0.1:27017/mydatabase";
-
+// const mongoURL = "mongodb+srv://theutkarsh5:<password>@breath.us18ifg.mongodb.net/"
 // Set up MongoDB connection
 mongoose.connect(mongoURL, {
     useNewUrlParser: true,
