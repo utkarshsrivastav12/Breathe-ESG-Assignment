@@ -83,7 +83,7 @@ After logging in, you will be redirected to the home page.
 
 ##Screenshots2
 
-![App Screenshots](https://drive.google.com/file/d/1BBJJEeMg-tUX7ZAq0x-wC4kruZr1me09/view?usp=sharing)
+https://drive.google.com/file/d/1BBJJEeMg-tUX7ZAq0x-wC4kruZr1me09/view?usp=sharing
 
 ##Screenshots3
 
